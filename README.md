@@ -2,7 +2,10 @@
 
 
 
-I recently graduated with a bachelor's degree in Computer Engineering (Minor in Software Engineering) from Babol Noshirvani University of Technology. My thesis was about Medical data Analysis and Machine/Deep Learning approaches for the differential diagnosis of Alzheimer's-Type Dementia. My research Interest in General includes Machine/Deep Learning, Computer Vision, and Data Analytics. but specifically I am motivated to conduct research at the intersection of AI and Medicine, working on the applications of machine/deep learning as well as computer vision in medical image analysis for more accurate understanding, diagnosis, and prognosis of disease is what I am genuinely passionate about.
+I recently graduated with a Bachelor's degree in Software Engineering and currently I am a first-year Ph.D. student in the Cognitive Neuroscience Unit at Deakin University
+
+My research interests include Computational Neuroscience, Computer Vision, and Machine/Deep Learning with applications in Neuroscience. 
+Through this interdisciplinary approach, I intend to study the Brain and its connectivity longitudinally.
 
 
 - 📫 Contact me via email: ashrafisudeh@gmail.com
